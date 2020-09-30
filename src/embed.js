@@ -518,6 +518,7 @@ function honeyAddy() {
   }
 }
 
+<<<<<<< HEAD
 function honeyPriceEmbed(honeyPrice) {
   return {
     embed: {
@@ -691,3 +692,6 @@ module.exports = {
   xDaiInfoEmbed,
   helpEmbedES
 }
+=======
+module.exports = { welcomeEmbed, brightidWarningEmbed, helpEmbed, honeyAddy }
+>>>>>>> fix slight syntax error
